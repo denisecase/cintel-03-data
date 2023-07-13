@@ -2,7 +2,7 @@
 
 - Interactive app: [cintel-03-data](https://habtomwoldu.shinyapps.io/cintel-03-data/) - see MT Cars tab and Penguins tab
 - Repository: [cintel-03-data](https://github.com/Habtom1999/cintel-03-data)
-- Author: [Denise Case](https://github.com/Habtom1999)
+- Author: [Habtom Woldu](https://github.com/Habtom1999)
 
 This time, we add data. 
 Two very common types of data are Excel data and CSV (comma-separated values) data.
