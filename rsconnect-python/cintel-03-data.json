@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Desktop\\NWMS\\NWMS classes\\CI\\cintel-03-data",
+        "app_url": "https://habtomwoldu.shinyapps.io/cintel-03-app/",
+        "app_id": 9448446,
+        "app_guid": null,
+        "title": "cintel-03-app",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
